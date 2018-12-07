@@ -35,7 +35,7 @@
         <h1 id="heading">Welcome on our test page</h1>
         <p id="header-paragraph">Welcome on our test environment, we created this website specially for getting to know all the basic features in html. Make sure to take your time to get to know all the different tags
             that are visible on this website. By inspecting them we can learn more about how they are structured and find out what tags are their parent, childs, etc.
-            TIP: To inspect the page or an item, just pres F12 or right-click "inspect element"!</p>
+            TIP: To inspect the page or an item, just press F12 or right-click "inspect element"!</p>
         <div id="headerButtons">
             <a href="#" class="butn" id="test-btn">Test</a>
             <a href="#" class="butn" id="automation-btn">Automation</a>
