@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:300i,400,500,600,700,800" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
-    <title>Contact form</title>
+    <title>Test form</title>
 </head>
 
 <body>
