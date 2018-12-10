@@ -10,4 +10,3 @@ deploy:
   api_key:
     secure: "edf98ce6-d92a-41de-9206-15025e1b3e5d"
     app: first-repo
-
