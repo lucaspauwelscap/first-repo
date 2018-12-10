@@ -1,4 +1,4 @@
-const url = 'https://google.com';
+const url = 'https://www.google.com/?hl=nl';
 
 given('I visit Google.be', () => {
     cy.visit(url)
