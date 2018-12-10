@@ -1,5 +1,13 @@
 language: php
 
+cache:
+  npm: true
+  directories:
+  - ~/.cache
+
+install:
+- npm ci
+
 script: ./build.sh
 
 before_install:
