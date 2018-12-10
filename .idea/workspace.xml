@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb51c85b-2522-4a41-bd42-8fbbfa236dcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
-    </list>
+    <list default="true" id="cb51c85b-2522-4a41-bd42-8fbbfa236dcc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
           <entry key="gitignore" value="58" />
           <entry key="js" value="25" />
           <entry key="php" value="4" />
-          <entry key="sh" value="12" />
+          <entry key="sh" value="13" />
           <entry key="yml" value="61" />
         </counts>
       </usages-collector>
@@ -140,7 +138,7 @@
         <counts>
           <entry key="JavaScript" value="25" />
           <entry key="PHP" value="4" />
-          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="PLAIN_TEXT" value="71" />
           <entry key="YAML" value="61" />
         </counts>
       </usages-collector>
@@ -152,7 +150,7 @@
         <entry file="file://$PROJECT_DIR$/build.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -270,12 +268,12 @@
       <workItem from="1544185729816" duration="1581000" />
       <workItem from="1544188572557" duration="895000" />
       <workItem from="1544432746025" duration="31000" />
-      <workItem from="1544432832365" duration="9752000" />
+      <workItem from="1544432832365" duration="9950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31213000" />
+    <option name="totallyTimeSpent" value="31411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -407,7 +405,7 @@
     <entry file="file://$PROJECT_DIR$/build.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
         </state>
       </provider>
     </entry>
